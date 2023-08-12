@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VS projects\\julianIdentityApi\\julianIdentityApi\\julianIdentityApi.csproj": {}
+    "D:\\VS projects\\.NetCore-6-Identity_Jwt-Auth\\julianIdentityApi\\julianIdentityApi.csproj": {}
   },
   "projects": {
-    "D:\\VS projects\\julianIdentityApi\\julianIdentityApi\\julianIdentityApi.csproj": {
+    "D:\\VS projects\\.NetCore-6-Identity_Jwt-Auth\\julianIdentityApi\\julianIdentityApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VS projects\\julianIdentityApi\\julianIdentityApi\\julianIdentityApi.csproj",
+        "projectUniqueName": "D:\\VS projects\\.NetCore-6-Identity_Jwt-Auth\\julianIdentityApi\\julianIdentityApi.csproj",
         "projectName": "julianIdentityApi",
-        "projectPath": "D:\\VS projects\\julianIdentityApi\\julianIdentityApi\\julianIdentityApi.csproj",
+        "projectPath": "D:\\VS projects\\.NetCore-6-Identity_Jwt-Auth\\julianIdentityApi\\julianIdentityApi.csproj",
         "packagesPath": "C:\\Users\\nepra\\.nuget\\packages\\",
-        "outputPath": "D:\\VS projects\\julianIdentityApi\\julianIdentityApi\\obj\\",
+        "outputPath": "D:\\VS projects\\.NetCore-6-Identity_Jwt-Auth\\julianIdentityApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nepra\\AppData\\Roaming\\NuGet\\NuGet.Config",

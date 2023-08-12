@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WUrYx+RoJ+nsWUJ2W8HltOfs61vFSW7VwYswz4IUQ8k/wt+b2AOBbj7+c9egP0Rd2tt7PFiaHuMzy0zJb6Iu8g==",
+  "dgSpecHash": "LCpewQqMOYN6OW5Hp9UUcQ+leFN1/7kYier489nh3Pi9yZ5sENcbjbA848Mtd1hT6/izy4MaFKzqPtTdDQSHlA==",
   "success": true,
-  "projectFilePath": "D:\\VS projects\\julianIdentityApi\\julianIdentityApi\\julianIdentityApi.csproj",
+  "projectFilePath": "D:\\VS projects\\.NetCore-6-Identity_Jwt-Auth\\julianIdentityApi\\julianIdentityApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nepra\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\nepra\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.20\\microsoft.aspnetcore.authentication.jwtbearer.6.0.20.nupkg.sha512",
